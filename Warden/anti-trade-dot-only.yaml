@@ -1,5 +1,5 @@
 name: at-correct-prefix
-rank: 1
+rank: 2
 event: on-message
 if:
    - channel-matches-any: [906739960084856832, 899655988632764446, 1043974376787279953]
